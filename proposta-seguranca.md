@@ -30,7 +30,7 @@
 
 ## Referências Bibliográficas
 
-- ZOU, Andy; WANG, Zifan; CARLINI, Nicholas; NASR, Milad; KOLTER, J. Zico; FREDRIKSON, Matt. _Universal and Transferable Adversarial Attacks on Aligned Language Models_. arXiv preprint arXiv:2307.15043, 2023.
+- ZOU, Andy; WANG, Zifan; CARLINI, Nicholas; NASR, Milad; KOLTER, J. Zico; FREDRIKSON, Matt. _Universal and Transferable Adversarial Attacks on Aligned Language Models, 20 Dec 2023. Acesso em: 11 set. 2024.
 - ITPEDIA. Large Language Models (LLMs) in Cyber Security. Disponível em: https://pt.itpedia.nl/2024/05/25/large-language-models-llms-in-cyber-security/. Acesso em: 13 set. 2024.
 - GENETEC. As implicações de modelos de linguagem grandes na segurança física. Disponível em: https://www.genetec.com/br/blog/cybersecurity/as-implicacoes-de-modelos-de-linguagem-grandes-na-seguranca-fisica. Acesso em: 13 set. 2024.
 - BRIGHTSEC. Exploring the Risks of Using Large Language Models. 2023. Disponível em: https://brightsec.com/wp-content/uploads/2023/11/Exploring-the-Risks-of-Using-Large-Language-Models-Final.pdf. Acesso em: 14 set. 2024.
